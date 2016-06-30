@@ -1,2 +1,0 @@
-# NETExtLib
-.NET extension library
