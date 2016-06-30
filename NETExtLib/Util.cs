@@ -37,7 +37,7 @@ namespace NETExtLib
             return result;
         }
 
-        public static String FullNameWithoutExtension(this FileInfo fileInfo)
+        public static String FullPathWithoutExtension(this FileInfo fileInfo)
         {
             String nameWithoutExt = fileInfo.FileNameWithoutExtension();
             String result = Path.Combine(fileInfo.Directory.FullName, nameWithoutExt);
