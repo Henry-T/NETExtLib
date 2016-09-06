@@ -1,3 +1,9 @@
 .vs
 */.suo
 NETExtLib/.vs/NETExtLib/v14/.suo
+bin/Debug/NETExtLib.dll
+bin/Debug/NETExtLib.pdb
+obj/Debug/NETExtLib.csproj.FileListAbsolute.txt
+obj/Debug/NETExtLib.csprojResolveAssemblyReference.cache
+obj/Debug/NETExtLib.dll
+obj/Debug/NETExtLib.pdb
